@@ -1,0 +1,24 @@
+{
+  "name": "dev-portfolio",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "materialize-css": "^1.0.0-rc.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-materialize": "^2.1.4"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.17",
+    "@types/react-dom": "^18.0.6",
+    "@vitejs/plugin-react": "^2.1.0",
+    "react-router-dom": "^6.4.2",
+    "vite": "^3.1.0"
+  }
+}
